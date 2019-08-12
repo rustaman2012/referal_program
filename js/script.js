@@ -51,14 +51,14 @@ while (count < 3) {
 //
 // alert('Меньшее число ' + min());
 
-function pow(){
-    let x = prompt('Number x', 0);
-    let b = prompt('Extent', 0);
-    let result = x;
-    for (let i = 2; i <= b; i++) {
-        result *= x;
-    }
-    return alert(result);
-}
-
-pow();
+// function pow(){
+//     let x = prompt('Number x', 0);
+//     let b = prompt('Extent', 0);
+//     let result = x;
+//     for (let i = 2; i <= b; i++) {
+//         result *= x;
+//     }
+//     return alert(result);
+// }
+//
+// pow();
